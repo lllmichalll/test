@@ -20,3 +20,5 @@ def funkcja(a,b):
 b = funkcja(2,3)
 print(b)
 #print(b)
+#gerrhtjtrj
+g = 6 + 8
